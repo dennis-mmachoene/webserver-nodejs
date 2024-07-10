@@ -4,6 +4,7 @@ This is a simple web server built with Node.js without using any external framew
 It serves static files and logs requests.
 
 ## Project Structure
+```sh
 project/
 │
 ├── css/
@@ -29,7 +30,7 @@ project/
 ├── server.js
 ├── package.json
 └── package-lock.json
-
+```
 ## Setup
 
 1. Clone the repository:
