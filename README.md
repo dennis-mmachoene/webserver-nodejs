@@ -75,4 +75,3 @@ The server logs all requests to a file using a custom event emitter.
 
 ## License
 
-This project is licensed under the MIT License.
